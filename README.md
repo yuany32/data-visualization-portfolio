@@ -1,1 +1,1 @@
-# data-visualization-portfolio
+# Claire Yuan data visualization showcase
