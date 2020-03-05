@@ -9,4 +9,3 @@ repository containing portfolio of data analysis and data visualization projects
 - ### Data Analysis and Visualization with R
   - [_Analyze some interesting data from the World Bank_](https://info201a-wi20.github.io/a6-data-visualization-yuany32/)
   - [_Looking into immigration in the U.S._](https://info201a-wi20.github.io/project-report-yennhito/)
-  
